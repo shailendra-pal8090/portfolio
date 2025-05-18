@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure--8+q1a3l=t)es@8uf_3zk5-xpky4v+-f7qhram*h@o*5wo68#2
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://portfolio-fwfd.onrender.com','localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['52.41.36.82','https://portfolio-fwfd.onrender.com']
 
 
 # Application definition
